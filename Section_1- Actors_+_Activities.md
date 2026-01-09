@@ -50,5 +50,32 @@ High level decision making and leadership roles. Activities include:
 - International Organisations
 
 
-<h2 align="center">Types of Economic Activities</h2>
+<h2 align="center">Who are the actors</h2>
 
+<div style="display: flex;">
+  
+
+  <div style="flex: 1;">
+    <h3>Households<h3>
+  </div>
+  
+  <div style="flex: 1;">
+    <h3>Firms<h3>
+  </div>
+
+
+</div>
+
+<div style="display: flex;">
+  
+
+  <div style="flex: 1;">
+    <h3>Governments<h3>
+  </div>
+  
+  <div style="flex: 1;">
+    <h3>External Actors<h3>
+  </div>
+
+
+</div>
